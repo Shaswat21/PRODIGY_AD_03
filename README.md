@@ -1,16 +1,13 @@
 # basic_stopwatch
 
-A new Flutter project.
+A Stopwatch with dark and light modes.
 
-## Getting Started
+## Visuals
 
-This project is a starting point for a Flutter application.
+<div align = center>
+<img src = "https://github.com/Shaswat21/PRODIGY_AD_03/assets/72961638/42820375-402d-487b-b06c-8e34aacaf38d" width=300/>
+<img src = "https://github.com/Shaswat21/PRODIGY_AD_03/assets/72961638/992d42b2-63b2-46c0-a9b4-e69fcfee36e7" width=300/>
+</div>
 
-A few resources to get you started if this is your first Flutter project:
+https://github.com/Shaswat21/PRODIGY_AD_03/assets/72961638/c8f9f924-7c57-416f-9839-faa7fe2be4af
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
